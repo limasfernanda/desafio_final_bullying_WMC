@@ -95,12 +95,34 @@ Abaixo estão os links para recursos que podem ajudar a entender e acompanhar os
 
 **Changelog do Código:** Para verificar as alterações das variáveis e a explicação acerca dos datasets gerados ao longo do código, acesse o changelog detalhado aqui: [Changelog do Código.](https://drive.google.com/file/d/11COQhYQZGa8WNYSn6jlRbhkw389pcRIV/view)
 
-**Dashboard do Power BI:** Para explorar o dashboard interativo criado no Power BI, que apresenta visualizações e insights obtidos a partir dos dados analisados: [Dashboard do Power BI.](https://)
+**Dashboard do Power BI:** Para explorar o dashboard interativo criado no Power BI, que apresenta visualizações e insights obtidos a partir dos dados analisados: [Dashboard do Power BI.](https://github.com/limasfernanda/desafio_final_bullying_WMC/blob/main/WoMakersCode.pbix)
 
 Esses recursos são essenciais para entender as etapas do processo e visualizar os resultados obtidos.
 
 Aqui temos algumas imagens retiradas do Power BI:
 
+- Modelo Relacional
+
+-   <p align="center">
+ <br>
+ Figura 1 - Exibição do Modelo
+    <img src = "PBI_1_modelo.PNG"/>
+</p>
+
+- View Power BI
+
+<p align="center">
+ <br>
+ Figura 2 - Panorama geral conjunto de dados 
+    <img src = "PBI_2_view1.PNG"/>
+</p>
+<br>
+
+<p align="center">
+ <br>
+ Figura 3 - Especificando a idade 15 anos e o gênero Feminino
+    <img src = "PBI_2view2.PNG"/>
+</p>
 
 
 
