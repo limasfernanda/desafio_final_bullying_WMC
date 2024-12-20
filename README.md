@@ -105,9 +105,10 @@ Aqui temos algumas imagens retiradas do Power BI:
 
 <p align="center">
  <br>
- Figura 1 - Exibição do Modelo
-    <img src = "PBI_1_modelo.PNG"/>
+ Figura 1 - Exibição do Modelo 
+    <img src = "PBI_2_view1.PNG"/>
 </p>
+<br>
 
 - View Power BI
 
@@ -121,7 +122,7 @@ Aqui temos algumas imagens retiradas do Power BI:
 <p align="center">
  <br>
  Figura 3 - Especificando a idade 15 anos e o gênero Feminino
-    <img src = "PBI_2view_2.PNG"/>
+    <img src = "PBI_2_view2.PNG"/>
 </p>
 
 
