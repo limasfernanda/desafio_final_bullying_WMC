@@ -103,10 +103,11 @@ Aqui temos algumas imagens retiradas do Power BI:
 
 - Modelo Relacional
 
-<div style="text-align: center;">
-    <p>Figura 1 - Exibição do Modelo</p>
-    <img src="PBI_1_modelo.PNG" alt="Modelo Relacional" style="display: block; margin: 0 auto;"/>
-</div>
+<p align="center">
+ <br>
+ Figura 1 - Exibição do Modelo <br>
+    <img src = "PBI_1_modelo.PNG"/>
+</p>
 <br>
 
 - View Power BI
