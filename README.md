@@ -106,7 +106,7 @@ Aqui temos algumas imagens retiradas do Power BI:
 <p align="center">
  <br>
  Figura 1 - Exibição do Modelo 
-    <img src = "PBI_2_view1.PNG"/>
+    <img src = "PBI_1_modelo.PNG"/>
 </p>
 <br>
 
